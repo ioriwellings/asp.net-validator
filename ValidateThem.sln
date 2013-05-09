@@ -7,7 +7,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ServerSideValidation.Test",
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ValidationControls", "ValidationControls\ValidationControls.csproj", "{5C74E747-6F39-4478-8BBC-46F10ECCCD19}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ValidationControls.FormTest", "ValidationControlsFormTest\ValidationControls.FormTest.csproj", "{23496510-1B42-4779-93A4-AD65E182101A}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ValidationControls.FormTest", "ValidationControls.FormTest\ValidationControls.FormTest.csproj", "{23496510-1B42-4779-93A4-AD65E182101A}"
 EndProject
 Global
 	GlobalSection(TestCaseManagementSettings) = postSolution
