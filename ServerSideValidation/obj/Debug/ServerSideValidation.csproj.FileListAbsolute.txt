@@ -1,0 +1,46 @@
+c:\users\onur\documents\visual studio 2010\Projects\ServerSideValidation\ServerSideValidation\bin\Debug\ServerSideValidation.dll
+c:\users\onur\documents\visual studio 2010\Projects\ServerSideValidation\ServerSideValidation\bin\Debug\ServerSideValidation.pdb
+c:\users\onur\documents\visual studio 2010\Projects\ServerSideValidation\ServerSideValidation\obj\Debug\ServerSideValidation.dll
+c:\users\onur\documents\visual studio 2010\Projects\ServerSideValidation\ServerSideValidation\obj\Debug\ServerSideValidation.pdb
+C:\Users\Onur\Documents\Visual Studio 2010\Projects\ServerSideValidation\ServerSideValidation\obj\Debug\ServerSideValidation.csprojResolveAssemblyReference.cache
+C:\Users\Onur\Documents\Visual Studio 2010\Projects\ServerSideValidation\ServerSideValidation\obj\Debug\ServerSideValidation.csproj.GenerateResource.Cache
+C:\Users\Onur\Documents\Visual Studio 2010\Projects\ServerSideValidation\ServerSideValidation\bin\Debug\tr-TR\ServerSideValidation.resources.dll
+C:\Users\Onur\Documents\Visual Studio 2010\Projects\ServerSideValidation\ServerSideValidation\obj\Debug\tr-TR\ServerSideValidation.resources.dll
+C:\Users\Onur\Documents\Visual Studio 2010\Projects\ServerSideValidation\ServerSideValidation\obj\Debug\ServerSideValidation.Resources.Messages.tr-TR.resources
+C:\Users\Onur\Documents\Visual Studio 2010\Projects\ServerSideValidation\ServerSideValidation\obj\Debug\ServerSideValidation.Resources.Messages.resources
+C:\Users\Onur\Desktop\Validit\ServerSideValidation\bin\Debug\ServerSideValidation.dll
+C:\Users\Onur\Desktop\Validit\ServerSideValidation\bin\Debug\ServerSideValidation.pdb
+C:\Users\Onur\Desktop\Validit\ServerSideValidation\bin\Debug\tr-TR\ServerSideValidation.resources.dll
+C:\Users\Onur\Desktop\Validit\ServerSideValidation\obj\Debug\ServerSideValidation.csprojResolveAssemblyReference.cache
+C:\Users\Onur\Desktop\Validit\ServerSideValidation\obj\Debug\ServerSideValidation.Resources.Messages.resources
+C:\Users\Onur\Desktop\Validit\ServerSideValidation\obj\Debug\ServerSideValidation.Resources.Messages.tr-TR.resources
+C:\Users\Onur\Desktop\Validit\ServerSideValidation\obj\Debug\ServerSideValidation.csproj.GenerateResource.Cache
+C:\Users\Onur\Desktop\Validit\ServerSideValidation\obj\Debug\tr-TR\ServerSideValidation.resources.dll
+C:\Users\Onur\Desktop\Validit\ServerSideValidation\obj\Debug\ServerSideValidation.dll
+C:\Users\Onur\Desktop\Validit\ServerSideValidation\obj\Debug\ServerSideValidation.pdb
+C:\Users\Onur\Desktop\ValidateThem\ServerSideValidation\bin\Debug\ServerSideValidation.dll
+C:\Users\Onur\Desktop\ValidateThem\ServerSideValidation\bin\Debug\ServerSideValidation.pdb
+C:\Users\Onur\Desktop\ValidateThem\ServerSideValidation\bin\Debug\tr-TR\ServerSideValidation.resources.dll
+C:\Users\Onur\Desktop\ValidateThem\ServerSideValidation\obj\Debug\ServerSideValidation.csprojResolveAssemblyReference.cache
+C:\Users\Onur\Desktop\ValidateThem\ServerSideValidation\obj\Debug\ServerSideValidation.Resources.Messages.resources
+C:\Users\Onur\Desktop\ValidateThem\ServerSideValidation\obj\Debug\ServerSideValidation.Resources.Messages.tr-TR.resources
+C:\Users\Onur\Desktop\ValidateThem\ServerSideValidation\obj\Debug\ServerSideValidation.csproj.GenerateResource.Cache
+C:\Users\Onur\Desktop\ValidateThem\ServerSideValidation\obj\Debug\tr-TR\ServerSideValidation.resources.dll
+C:\Users\Onur\Desktop\ValidateThem\ServerSideValidation\obj\Debug\ServerSideValidation.dll
+C:\Users\Onur\Desktop\ValidateThem\ServerSideValidation\obj\Debug\ServerSideValidation.pdb
+C:\Users\Onur\Desktop\ValidateThem\ServerSideValidation\bin\Debug\en-US\ServerSideValidation.resources.dll
+C:\Users\Onur\Desktop\ValidateThem\ServerSideValidation\obj\Debug\ServerSideValidation.Resources.Messages.en-US.resources
+C:\Users\Onur\Desktop\ValidateThem\ServerSideValidation\obj\Debug\en-US\ServerSideValidation.resources.dll
+C:\Users\Onur\CodePlex\validatethem\ServerSideValidation\bin\Debug\ServerSideValidation.dll
+C:\Users\Onur\CodePlex\validatethem\ServerSideValidation\bin\Debug\ServerSideValidation.pdb
+C:\Users\Onur\CodePlex\validatethem\ServerSideValidation\bin\Debug\en-US\ServerSideValidation.resources.dll
+C:\Users\Onur\CodePlex\validatethem\ServerSideValidation\bin\Debug\tr-TR\ServerSideValidation.resources.dll
+C:\Users\Onur\CodePlex\validatethem\ServerSideValidation\obj\Debug\ServerSideValidation.csprojResolveAssemblyReference.cache
+C:\Users\Onur\CodePlex\validatethem\ServerSideValidation\obj\Debug\ServerSideValidation.Resources.Messages.resources
+C:\Users\Onur\CodePlex\validatethem\ServerSideValidation\obj\Debug\ServerSideValidation.Resources.Messages.en-US.resources
+C:\Users\Onur\CodePlex\validatethem\ServerSideValidation\obj\Debug\ServerSideValidation.Resources.Messages.tr-TR.resources
+C:\Users\Onur\CodePlex\validatethem\ServerSideValidation\obj\Debug\ServerSideValidation.csproj.GenerateResource.Cache
+C:\Users\Onur\CodePlex\validatethem\ServerSideValidation\obj\Debug\en-US\ServerSideValidation.resources.dll
+C:\Users\Onur\CodePlex\validatethem\ServerSideValidation\obj\Debug\tr-TR\ServerSideValidation.resources.dll
+C:\Users\Onur\CodePlex\validatethem\ServerSideValidation\obj\Debug\ServerSideValidation.dll
+C:\Users\Onur\CodePlex\validatethem\ServerSideValidation\obj\Debug\ServerSideValidation.pdb
