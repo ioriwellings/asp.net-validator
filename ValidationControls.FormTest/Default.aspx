@@ -19,11 +19,11 @@
                 </tr>
                 <tr>
                     <td>digit: </td>
-                    <td><vc:ValidationDigit ID="ValidationDigit1" Key="DigitField" runat="server"/></td>
+                    <td><vc:ValidationDigit ID="ValidationDigit1" MaxLength="7" Key="DigitField" runat="server"/></td>
                 </tr>
                 <tr>
                     <td>alphanumeric: </td>
-                    <td><vc:ValidationAlphanumeric ID="ValidationAlphanumeric1" Key="AlphanumericField" runat="server"/></td>
+                    <td><vc:ValidationAlphanumeric ID="ValidationAlphanumeric1" MinLength="6" Key="AlphanumericField" runat="server"/></td>
                 </tr>
                 <tr>
                     <td>notag: </td>
