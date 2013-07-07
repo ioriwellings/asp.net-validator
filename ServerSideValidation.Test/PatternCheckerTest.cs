@@ -1,4 +1,5 @@
-﻿using Microsoft.VisualStudio.TestTools.UnitTesting;
+﻿using System.Globalization;
+using Microsoft.VisualStudio.TestTools.UnitTesting;
 using ServerSideValidation.Fields;
 
 namespace ServerSideValidation.Test
@@ -402,6 +403,94 @@ namespace ServerSideValidation.Test
         public void WhenEmailFieldInitialized_ExpectInputWithMissingFieldFailed3()
         {
             var field = new EmailField("test@test");
+            var expected = false;
+            var result = field.ValidateField();
+
+            Assert.AreEqual(expected, result);
+        }
+
+        #endregion
+
+        #region Float
+
+        [TestMethod]
+        public void WhenFloatFieldInitialized_ExpectFloatInputPassed1()
+        {
+            Global.CultureInfo = new CultureInfo("tr-TR");
+            var field = new FloatField("15,3");
+            var expected = true;
+            var result = field.ValidateField();
+
+            Assert.AreEqual(expected, result);
+        }
+
+        [TestMethod]
+        public void WhenFloatFieldInitialized_ExpectFloatInputPassed2()
+        {
+            Global.CultureInfo = new CultureInfo("en-US");
+            var field = new EmailField("15.3");
+            var expected = false;
+            var result = field.ValidateField();
+
+            Assert.AreEqual(expected, result);
+        }
+
+        [TestMethod]
+        public void WhenFloatFieldInitialized_ExpectFloatInputPassed3()
+        {
+            var field = new EmailField("15");
+            var expected = false;
+            var result = field.ValidateField();
+
+            Assert.AreEqual(expected, result);
+        }
+
+        [TestMethod]
+        public void WhenFloatFieldInitialized_ExpectFloatInputPassed4()
+        {
+            var field = new EmailField("0.15");
+            var expected = false;
+            var result = field.ValidateField();
+
+            Assert.AreEqual(expected, result);
+        }
+
+        [TestMethod]
+        public void WhenFloatFieldInitialized_ExpectFloatInputPassed5()
+        {
+            var field = new EmailField("-0.15");
+            var expected = false;
+            var result = field.ValidateField();
+
+            Assert.AreEqual(expected, result);
+        }
+
+        [TestMethod]
+        public void WhenFloatFieldInitializedWithCultureTR_ExpectInputWithDotFailed()
+        {
+            Global.CultureInfo = new CultureInfo("tr-TR");
+            var field = new EmailField("15.3");
+            var expected = false;
+            var result = field.ValidateField();
+
+            Assert.AreEqual(expected, result);
+        }
+
+        [TestMethod]
+        public void WhenFloatFieldInitializedEn_ExpectInputWithCommaFailed()
+        {
+            Global.CultureInfo = new CultureInfo("en-US");
+            var field = new EmailField("15,3");
+            var expected = false;
+            var result = field.ValidateField();
+
+            Assert.AreEqual(expected, result);
+        }
+
+        [TestMethod]
+        public void WhenFloatFieldInitializedEn_ExpectInputWithNonNumericCharFailed()
+        {
+            var field = new EmailField("15.3a");
             var expected = false;
             var result = field.ValidateField();
 

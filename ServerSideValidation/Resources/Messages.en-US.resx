@@ -141,6 +141,10 @@
     <value>Please enter the value equal to {0}.</value>
     <comment>Common Error</comment>
   </data>
+  <data name="float" xml:space="preserve">
+    <value>Please enter a valid float value</value>
+    <comment>Rule Error</comment>
+  </data>
   <data name="letter" xml:space="preserve">
     <value>Please enter only letters.</value>
     <comment>Rule Error</comment>

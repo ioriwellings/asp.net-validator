@@ -49,6 +49,15 @@ namespace ValidationControls.FormTest {
         protected global::ValidationControls.Controls.ValidationDigit ValidationDigit1;
         
         /// <summary>
+        /// ValidationFloat1 control.
+        /// </summary>
+        /// <remarks>
+        /// Auto-generated field.
+        /// To modify move field declaration from designer file to code-behind file.
+        /// </remarks>
+        protected global::ValidationControls.Controls.ValidationFloat ValidationFloat1;
+        
+        /// <summary>
         /// ValidationAlphanumeric1 control.
         /// </summary>
         /// <remarks>

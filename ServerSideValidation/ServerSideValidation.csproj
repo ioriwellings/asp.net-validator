@@ -46,6 +46,7 @@
     <Compile Include="Fields\DigitField.cs" />
     <Compile Include="Fields\EmailField.cs" />
     <Compile Include="Fields\FieldBase.cs" />
+    <Compile Include="Fields\FloatField.cs" />
     <Compile Include="Fields\FreeField.cs" />
     <Compile Include="Fields\IField.cs" />
     <Compile Include="Fields\LetterField.cs" />

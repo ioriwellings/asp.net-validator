@@ -141,6 +141,10 @@
     <value>Girilen değer istenen değere eşit değil</value>
     <comment>Common Error</comment>
   </data>
+  <data name="float" xml:space="preserve">
+    <value>Geçersiz ondalıklı sayı formatı</value>
+    <comment>Rule Error</comment>
+  </data>
   <data name="letter" xml:space="preserve">
     <value>Harf dışı karakter</value>
     <comment>Rule Error</comment>

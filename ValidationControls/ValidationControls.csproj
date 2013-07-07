@@ -48,6 +48,7 @@
     <Compile Include="Controls\ValidationDate.cs" />
     <Compile Include="Controls\ValidationDigit.cs" />
     <Compile Include="Controls\ValidationEmail.cs" />
+    <Compile Include="Controls\ValidationFloat.cs" />
     <Compile Include="Controls\ValidationFree.cs" />
     <Compile Include="Controls\ValidationLetter.cs" />
     <Compile Include="Controls\ValidationNoTag.cs" />

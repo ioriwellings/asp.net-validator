@@ -22,6 +22,10 @@
                     <td><vc:ValidationDigit ID="ValidationDigit1" MaxLength="7" Key="DigitField" runat="server"/></td>
                 </tr>
                 <tr>
+                    <td>float: </td>
+                    <td><vc:ValidationFloat ID="ValidationFloat1" MaxLength="7" Key="FloatField" runat="server"/></td>
+                </tr>
+                <tr>
                     <td>alphanumeric: </td>
                     <td><vc:ValidationAlphanumeric ID="ValidationAlphanumeric1" MinLength="6" Key="AlphanumericField" runat="server"/></td>
                 </tr>

@@ -132,6 +132,9 @@
   <data name="email" xml:space="preserve">
     <value>email</value>
   </data>
+  <data name="float" xml:space="preserve">
+    <value>float</value>
+  </data>
   <data name="letter" xml:space="preserve">
     <value>letter</value>
   </data>
