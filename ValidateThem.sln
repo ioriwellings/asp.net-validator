@@ -1,6 +1,6 @@
 ﻿
-Microsoft Visual Studio Solution File, Format Version 11.00
-# Visual Studio 2010
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ServerSideValidation", "ServerSideValidation\ServerSideValidation.csproj", "{76961FF5-AB10-4749-B221-E70E69A8A12D}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ServerSideValidation.Test", "ServerSideValidation.Test\ServerSideValidation.Test.csproj", "{3F911417-055D-4B2F-B25B-A8CEB0FF888B}"
