@@ -82,6 +82,7 @@
     <EmbeddedResource Include="Resources\Messages.tr-TR.resx">
       <Generator>ResXFileCodeGenerator</Generator>
       <LastGenOutput>Messages.tr-TR.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
     </EmbeddedResource>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />

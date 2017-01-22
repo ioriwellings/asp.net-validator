@@ -4,7 +4,7 @@
     {
         public NoTagField(string input) : base(input)
         {
-            // ref=http://www.regular-expressions.info/examples.html
+            // ref: http://www.regular-expressions.info/examples.html
             Pattern = @"<([a-zA-Z][a-zA-Z0-9]*)\b[^>]*>(.*?)<\/\1>";
             PatternError = PatternError = Global.ResourceManager.GetString("noTag", Global.CultureInfo);
         }
