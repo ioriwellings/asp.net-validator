@@ -50,7 +50,6 @@ For detailed usage try ValidationControl.FormTest project.
 
 Aspx page:
 
-<!-- For injecting javascripts should use JsRegisterer.Otherwise Validation Controls validate inputs only at the server side-->
 <vc:JsRegisterer ID="JsRegisterer1" runat="server">
   <Content>
     <table>
@@ -67,6 +66,7 @@ Aspx page:
     </table>      
   </Content>
 </vc:JsRegisterer>
+
 Code behind validation:
 
 foreach (Control control in JsRegisterer1.Controls.OfType<ValidationBase>())
